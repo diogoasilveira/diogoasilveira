@@ -1,4 +1,8 @@
-## Hi there 👋
+## Oi! Eu sou @diogoasilveira (Diogo Silveira).
+#### Sou estudante de Ciência da Computação na UFCG e atualmente estou estudando sobre Processamento de Linguagem Natural, Modelos de Linguagem e desenvolvimento de aplicações com LLMs e Agentes.
+
+####Onde você também pode me achar:
+* [LinkedIn](https://www.linkedin.com/in/diogo-alves-silveira-9a8760222/)
 
 <!--
 **diogoasilveira/diogoasilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
