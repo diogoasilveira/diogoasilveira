@@ -1,5 +1,5 @@
 ## Oi! Eu sou @diogoasilveira (Diogo Silveira).
-#### Sou estudante de Ciência da Computação na UFCG e atualmente estou estudando sobre Machine Learning, Algoritmos de Embeddings, Sistemas de Recomendação, Modelos de Linguagem e desenvolvimento de aplicações com LLMs e Agentes.
+#### Sou estudante de Ciência da Computação na UFCG e atualmente estou estudando sobre Machine Learning, Visão Computacional, Modelos de Linguagem e desenvolvimento de aplicações com LLMs e Agentes.
 
 #### Onde você também pode me achar/entrar em contato:
 * [LinkedIn](https://www.linkedin.com/in/diogo-alves-silveira-9a8760222/)
